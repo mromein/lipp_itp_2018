@@ -368,7 +368,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 773.5, 406.0, 224.0, 60.0 ],
+					"patching_rect" : [ 773.5, 406.0, 226.0, 60.0 ],
 					"style" : "",
 					"text" : "First inlet receives a bang which triggers it's behavior, to send out a random number. This is a hot inlet since it spits out data when it recieves data"
 				}
@@ -422,7 +422,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 771.0, 293.0, 223.0, 100.0 ],
 					"style" : "",
-					"text" : "The first part of the object is it's name. The second part is an argument telling the object how to behave. The Random object is uniquely set up so that an integer is intrepreted as the range for the Random object, meaning it will spit out a number between 0-999"
+					"text" : "The first part of the object is its name. The second part is an argument telling the object how to behave. The Random object is uniquely set up so that an integer is intrepreted as the range for the Random object, meaning it will spit out a number between 0-999"
 				}
 
 			}
